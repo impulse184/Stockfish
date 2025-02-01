@@ -83,7 +83,7 @@ first, where the basics of Stockfish development are explained.
 
 Discussions about Stockfish take place these days mainly in the Stockfish
 [Discord server][discord-link]. This is also the best place to ask questions
-about the codebase and how to improve it.
+about the codebase and how to improve it
 
 ## Compiling Stockfish
 
